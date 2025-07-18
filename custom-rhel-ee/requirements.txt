@@ -1,0 +1,4 @@
+# Python dependencies for the execution environment
+psutil>=5.8.0
+six>=1.16.0
+requests>=2.25.0
