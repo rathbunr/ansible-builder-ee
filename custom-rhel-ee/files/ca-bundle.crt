@@ -1,0 +1,7 @@
+-----BEGIN CERTIFICATE-----
+# Replace this with your actual CA certificate content
+# This is a placeholder for your organization's CA certificate
+# The certificate should be in PEM format
+MIIEXjCCA0agAwIBAgIJAK8+YourCAContent+Here
+... (certificate content) ...
+-----END CERTIFICATE-----
