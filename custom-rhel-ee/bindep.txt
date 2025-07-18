@@ -1,0 +1,4 @@
+# System package dependencies
+libxml2-devel [platform:rpm]
+libxslt-devel [platform:rpm]
+openssl-devel [platform:rpm]
